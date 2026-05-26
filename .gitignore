@@ -427,3 +427,10 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+.DS_Store
